@@ -4,8 +4,8 @@ Personal collection of TryHackMe room writeups, written while preparing for the 
 
 | Room | Difficulty | Focus | Key Techniques |
 |---|---|---|---|
-| [Matryoshka](rooms/medium/matryoshka.md) | Medium | Container Security | Docker socket abuse, shared-volume RCE, `--privileged`/`--pid=host` host escape |
-| [Recruit](rooms/easy/recruit.md) | Easy | Web | SSRF (`file://`), SQL Injection |
+| [Matryoshka](THM-Write-ups/rooms/medium/matryoshka.md) | Medium | Container Security | Docker socket abuse, shared-volume RCE, `--privileged`/`--pid=host` host escape |
+| [Recruit](THM-Write-ups/rooms/easy/recruit.md) | Easy | Web | SSRF (`file://`), SQL Injection |
 
 ## Structure
 
