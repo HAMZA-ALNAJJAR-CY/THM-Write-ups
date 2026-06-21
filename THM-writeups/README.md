@@ -6,7 +6,7 @@ Personal collection of TryHackMe room writeups, written while preparing for the 
 |---|---|---|---|
 | [Matryoshka](rooms/medium/matryoshka.md) | Medium | Container Security | Docker socket abuse, shared-volume RCE, `--privileged`/`--pid=host` host escape |
 | [Recruit](rooms/easy/recruit.md) | Easy | Web | SSRF (`file://`), SQL Injection |
-
+| [Team](rooms/easy/Team-Room-Write-up.md) | Easy | Web | LFI | (`page=../../../`), Leak old backup files |
 ## Structure
 
 ```
